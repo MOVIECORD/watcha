@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아머드 사우루스 30초 예고편 | 왓챠]]></title>
+            <link>https://tv.naver.com/v/23361378</link>
+            <guid>https://tv.naver.com/v/23361378</guid>
+            <pubDate>Fri, 05 Nov 2021 01:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_69/wsRCV_1636075031267MeinQ_PNG/1636074865169.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[합리적인 가격으로 함께보는 왓챠!]]></title>
             <link>https://tv.naver.com/v/22907496</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[7:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210630_244/EZm9u_1625032275254nKOGF_JPEG/1625032162517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어른들은 다 죽었어" | 〈안나: 죽지 않는 아이들〉 메인 예고편 | 왓챠 익스클루시브]]></title>
-            <link>https://tv.naver.com/v/21053723</link>
-            <guid>https://tv.naver.com/v/21053723</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210629_247/bEPjj_1624956457823G0Lai_PNG/1624956342457.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
