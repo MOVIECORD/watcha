@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 00:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈더블 트러블〉 컬러 티저 영상 | 12월 24일(금) 오후 6시 왓챠 첫공개]]></title>
+            <link>https://tv.naver.com/v/23831737</link>
+            <guid>https://tv.naver.com/v/23831737</guid>
+            <pubDate>Wed, 01 Dec 2021 01:58:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_44/v8aCb_1638319368887COCVf_JPEG/1638319299777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈더블 트러블〉 블라인드 티저 | 12월 24일(금) 오후 6시 첫공개]]></title>
             <link>https://tv.naver.com/v/23799744</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210721_7/hLHV5_16268541311806HE3k_JPEG/1626853992944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[왓챠 X 접속 무비월드] ⟨시시콜콜한 이야기⟩ 여름에 찾아온 풋풋한 설렘주의보]]></title>
-            <link>https://tv.naver.com/v/21431242</link>
-            <guid>https://tv.naver.com/v/21431242</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[8:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_35/zYMcf_1626760122694bLPFn_JPEG/1626759999739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
