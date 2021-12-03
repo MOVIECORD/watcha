@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 01:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#헐왓챠에 아네트 30초 예고편 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23876831</link>
+            <guid>https://tv.naver.com/v/23876831</guid>
+            <pubDate>Fri, 03 Dec 2021 01:53:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_91/i52sF_16384954917843QhxI_JPEG/5ad8780b-53d8-11ec-a74c-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈더블 트러블〉 컬러 티저 영상 | 12월 24일(금) 오후 6시 왓챠 첫공개 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23833323</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210722_193/GZqe2_1626947360237W4cU3_JPEG/1626947281793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떡밥 한가득인 〈와이 우먼 킬〉 시즌 2 메인 예고편 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21457072</link>
-            <guid>https://tv.naver.com/v/21457072</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210721_7/hLHV5_16268541311806HE3k_JPEG/1626853992944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
