@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈더블 트러블〉 2화 예고편 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24334527</link>
+            <guid>https://tv.naver.com/v/24334527</guid>
+            <pubDate>Wed, 05 Jan 2022 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_269/N7ZG2_1640760125424X82UG_JPEG/1640760012211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['왓챠'로 이행시 하는 게 얼마나 어려운지 알게 되는 영상 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24333185</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_29/pFCO0_16288536151955eRHG_PNG/1628853380595.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감옥에서의 '생활'이 아닌 '생존'을 보여주는 올 하반기 가장 파격적인 예능 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21696914</link>
-            <guid>https://tv.naver.com/v/21696914</guid>
-            <pubDate>Wed, 05 Jan 2022 08:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210804_217/2CBT7_1628065677345bMtvc_JPEG/a96b80ca-f4fd-11eb-a72a-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
