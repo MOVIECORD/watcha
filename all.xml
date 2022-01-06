@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋좋소 시즌4 티저 예고편 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24467151</link>
+            <guid>https://tv.naver.com/v/24467151</guid>
+            <pubDate>Thu, 06 Jan 2022 09:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_62/KjQ5u_1641454182353OqeXE_PNG/1641453470088.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[〈더블 트러블〉 2화 예고편 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24334527</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[8:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210814_226/rMmtO_1628869524570SOzAD_JPEG/1628869412327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리버풀의 EPL 우승기, ⟨리버풀 FC : 엔드 오브 스톰⟩ 메인 예고편  |  왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21860557</link>
-            <guid>https://tv.naver.com/v/21860557</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210813_29/pFCO0_16288536151955eRHG_PNG/1628853380595.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
