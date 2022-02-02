@@ -4,9 +4,25 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 04:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 05:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시맨틱 에러ㅣ30초 예고편ㅣ왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/24894547</link>
+            <guid>https://tv.naver.com/v/24894547</guid>
+            <pubDate>Wed, 02 Feb 2022 05:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_247/5eHxS_16437763153822hP3Q_PNG/1643776306902.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시맨틱 에러ㅣ메인 예고편ㅣ왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/24894465</link>
+            <guid>https://tv.naver.com/v/24894465</guid>
+            <pubDate>Wed, 02 Feb 2022 05:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_3/a4pJs_1643775671084Q7NIh_PNG/1643775594281.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시맨틱 에러ㅣ티저 예고편ㅣ왓챠 오리지널]]></title>
             <link>https://tv.naver.com/v/24761537</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_102/OrKF0_16329878360676J6qP_PNG/1632987613939.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무해한 광기 안테나가 다 모이면?ㅣ더듬이TV: 우당탕탕 안테나ㅣ메인 예고편ㅣ왓챠]]></title>
-            <link>https://tv.naver.com/v/22663098</link>
-            <guid>https://tv.naver.com/v/22663098</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_176/3MDzK_1632819180943Ymwil_PNG/1632818765893.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장례식장에서 스폰남과 마주쳤다 | 〈시바 베이비〉 메인 예고편 | 왓챠 익스클루시브]]></title>
-            <link>https://tv.naver.com/v/22333686</link>
-            <guid>https://tv.naver.com/v/22333686</guid>
-            <pubDate>Wed, 06 Oct 2021 13:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_140/rqgrC_16310773281581ju8T_JPEG/1631076911432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
