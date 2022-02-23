@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 00:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조인 마이 테이블 | 이금희와 박상영의 낯선 나라 음식 탐방기 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25294267</link>
+            <guid>https://tv.naver.com/v/25294267</guid>
+            <pubDate>Wed, 23 Feb 2022 02:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_7/9YCbE_1645580690741MhVC0_PNG/1645580611631.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스테이션 일레븐 | 메인 예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25168449</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Oct 2021 01:58:04 GMT</pubDate>
             <content:encoded><![CDATA[0:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_296/B5lVf_1633999728891CVCda_JPEG/be41572d-2af5-11ec-9849-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구와 함께 보고싶다면, 왓챠! (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22907440</link>
-            <guid>https://tv.naver.com/v/22907440</guid>
-            <pubDate>Tue, 12 Oct 2021 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_275/ousOw_1633999503613h7gaA_JPEG/5078a32e-2af5-11ec-b07e-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
