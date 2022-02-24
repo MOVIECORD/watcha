@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 00:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화이글스: 클럽하우스 1차 티저 | 우리는 매일 최악의 경기를 하고 있어! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25305857</link>
+            <guid>https://tv.naver.com/v/25305857</guid>
+            <pubDate>Thu, 24 Feb 2022 00:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_230/j7z1Z_1645613567194Rvj8w_PNG/1645613499292.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조인 마이 테이블 | 이금희와 박상영의 낯선 나라 음식 탐방기 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25294267</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Nov 2021 01:53:22 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_69/wsRCV_1636075031267MeinQ_PNG/1636074865169.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[합리적인 가격으로 함께보는 왓챠! (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22907496</link>
-            <guid>https://tv.naver.com/v/22907496</guid>
-            <pubDate>Tue, 12 Oct 2021 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_296/B5lVf_1633999728891CVCda_JPEG/be41572d-2af5-11ec-9849-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
