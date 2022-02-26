@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 07:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 08:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋좋소 시즌5 티저 | 3월 8일 왓챠 공개 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25335770</link>
+            <guid>https://tv.naver.com/v/25335770</guid>
+            <pubDate>Sat, 26 Feb 2022 08:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_54/sNDol_1645755558097JMbxW_PNG/1645755434134.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한화이글스: 클럽하우스 1차 티저 | 우리는 매일 최악의 경기를 하고 있어! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25305857</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 10:10:50 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_268/vw8Jq_16363649573274YNlx_JPEG/1636364938808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아머드 사우루스 30초 예고편 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23361378</link>
-            <guid>https://tv.naver.com/v/23361378</guid>
-            <pubDate>Fri, 05 Nov 2021 01:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_69/wsRCV_1636075031267MeinQ_PNG/1636074865169.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
