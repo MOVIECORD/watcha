@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 00:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 02:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화이글스: 클럽하우스 | 환희, 절망, 열정의 모든 순간을 담았다! | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/25669568</link>
+            <guid>https://tv.naver.com/v/25669568</guid>
+            <pubDate>Wed, 16 Mar 2022 02:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_181/3JwTJ_164739583244671Izg_PNG/1647395779026.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[좋좋소 시즌5 티저 | 3월 8일 왓챠 공개]]></title>
             <link>https://tv.naver.com/v/25335770</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 Nov 2021 04:12:17 GMT</pubDate>
             <content:encoded><![CDATA[0:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_45/cZHWt_1636600108226TCxBE_JPEG/4030e45b-429c-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정민X손석구X최희서X이제훈 네 아티스트가 담은 이야기 ㅣ언프레임드ㅣ왓챠오리지널]]></title>
-            <link>https://tv.naver.com/v/23411978</link>
-            <guid>https://tv.naver.com/v/23411978</guid>
-            <pubDate>Mon, 08 Nov 2021 10:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_268/vw8Jq_16363649573274YNlx_JPEG/1636364938808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
