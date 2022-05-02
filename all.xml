@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 03:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 04:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 세상에 꼭 전하고 싶은 말이 있다는 도깨비 삼인방 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26553687</link>
+            <guid>https://tv.naver.com/v/26553687</guid>
+            <pubDate>Mon, 02 May 2022 04:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_2/egD4j_1651456203609FTCAn_JPEG/1248be8c-c9ba-11ec-98b3-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특이점이 온 '도깨비송' 댄스 예고편 (안무 : HOOK 뤠이전) (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26512066</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_233/KjqoY_1638791984400soBfA_JPEG/29bbf7d0-568b-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#헐왓챠에 아네트 30초 예고편 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876831</link>
-            <guid>https://tv.naver.com/v/23876831</guid>
-            <pubDate>Fri, 03 Dec 2021 01:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_91/i52sF_16384954917843QhxI_JPEG/5ad8780b-53d8-11ec-a74c-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
