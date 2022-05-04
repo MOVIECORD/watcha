@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 07:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킬링 이브 시즌4 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/26584737</link>
+            <guid>https://tv.naver.com/v/26584737</guid>
+            <pubDate>Wed, 04 May 2022 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_266/raiZv_1651569420079vGOaV_PNG/1651569257950.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인간 세상에 꼭 전하고 싶은 말이 있다는 도깨비 삼인방]]></title>
             <link>https://tv.naver.com/v/26553687</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_225/dREeZ_16387922036077iFXY_JPEG/0d38d087-568c-11ec-9524-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라지는 게 아니라 숨어있는 거야ㅣ박소이 주연,최희서 감독 〈반디〉ㅣ왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/23933735</link>
-            <guid>https://tv.naver.com/v/23933735</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_233/KjqoY_1638791984400soBfA_JPEG/29bbf7d0-568b-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
