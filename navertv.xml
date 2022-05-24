@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[★웃음 참기★참으면 오천만원 보장. 의심말고 클릭!ㅣ노키득존ㅣ30초 예고편]]></title>
+            <link>https://tv.naver.com/v/26831480</link>
+            <guid>https://tv.naver.com/v/26831480</guid>
+            <pubDate>Tue, 24 May 2022 02:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_24/2onYy_1652783424041tdCRt_PNG/1652783422951.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ㄹ인업부터 살벌하게 웃긴데ㅋㅋㅋㅋㅋ 웃음 참아야 되는 예능 (헙)ㅣ노키득존ㅣ티저 예]]></title>
             <link>https://tv.naver.com/v/26738543</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_125/jFbn4_1638792534752PhSBn_JPEG/f2ebc348-568c-11ec-b39d-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인 주연, 이제훈 감독의 〈블루 해피니스〉ㅣ언프레임드]]></title>
-            <link>https://tv.naver.com/v/23933831</link>
-            <guid>https://tv.naver.com/v/23933831</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_51/Y8Jdz_1638792367231yBxT5_JPEG/8ba4b52b-568c-11ec-ba2c-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
