@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 00:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 02:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최종병기 앨리스｜메인 예고편｜왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/27233926</link>
+            <guid>https://tv.naver.com/v/27233926</guid>
+            <pubDate>Thu, 09 Jun 2022 02:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_216/jw370_1654679085433tCsHt_PNG/1654678976197.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베리 브리티쉬 스캔들 | 20세기 최악의 이혼소송 실화 | 왓챠 익스클루시브]]></title>
             <link>https://tv.naver.com/v/27110151</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_146/GH5Oh_1640160792126Qc1Fx_JPEG/1640160733381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠 오리지널 음악 예능 〈더블 트러블〉 프로그램 예고편]]></title>
-            <link>https://tv.naver.com/v/24168969</link>
-            <guid>https://tv.naver.com/v/24168969</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_223/ZYL4q_1639990109611ER6we_JPEG/1639990038440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
