@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 00:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 03:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최종병기 앨리스 | 현장에 가득했던 핑크빛 케미 💗  핏빛 열정 🔥 | 제작기 영상 공개 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27474820</link>
+            <guid>https://tv.naver.com/v/27474820</guid>
+            <pubDate>Wed, 22 Jun 2022 03:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_272/W3RaY_1655808630664n8Yg0_JPEG/1655808626921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최종병기 앨리스｜메인 예고편｜왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27233926</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_233/lDUsn_1640162614953qIlRP_JPEG/1640162560709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠 익스클루시브 〈나의 직장상사는 코미디언〉 메인 예고편 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24206021</link>
-            <guid>https://tv.naver.com/v/24206021</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_146/GH5Oh_1640160792126Qc1Fx_JPEG/1640160733381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
