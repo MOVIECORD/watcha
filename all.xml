@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[⟨슈퍼리그: 축구의 종말⟩ | "탐욕이 만든 리그,지상 최악의 쇼가 되다!" | 왓챠 익스클루 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27764803</link>
+            <guid>https://tv.naver.com/v/27764803</guid>
+            <pubDate>Wed, 06 Jul 2022 05:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_173/8hdAX_1657004917347QV3gq_JPEG/1657004846247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최종병기 앨리스 | 현장에 가득했던 핑크빛 케미 💗  핏빛 열정 🔥 | 제작기 영상 공개 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27474820</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 07:08:52 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_146/HG8yG_1640756993606hx9aW_JPEG/1640756915242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈더블 트러블〉 전멤버 티저 영상 현장 메이킹 대방출 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24207023</link>
-            <guid>https://tv.naver.com/v/24207023</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_233/lDUsn_1640162614953qIlRP_JPEG/1640162560709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
