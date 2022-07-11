@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈세뇨리따 89〉 | "오직 왕관만이 나를 구할 것이다" (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27866609</link>
+            <guid>https://tv.naver.com/v/27866609</guid>
+            <pubDate>Mon, 11 Jul 2022 10:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_251/IGUJa_1657516076219EqBAo_PNG/1657515995737.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[⟨슈퍼리그: 축구의 종말⟩ | "탐욕이 만든 리그,지상 최악의 쇼가 되다!" | 왓챠 익스클루 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27764803</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 09:08:50 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_269/N7ZG2_1640760125424X82UG_JPEG/1640760012211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['왓챠'로 이행시 하는 게 얼마나 어려운지 알게 되는 영상 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24333185</link>
-            <guid>https://tv.naver.com/v/24333185</guid>
-            <pubDate>Wed, 29 Dec 2021 07:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_146/HG8yG_1640756993606hx9aW_JPEG/1640756915242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
