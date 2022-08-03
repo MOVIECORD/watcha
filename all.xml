@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 04:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼스트 레이디 | 과감했고, 솔직했고, 용감했다 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28320658</link>
+            <guid>https://tv.naver.com/v/28320658</guid>
+            <pubDate>Wed, 03 Aug 2022 05:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_139/lzlcK_1659425554849Vl6GH_JPEG/1659424553169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈세뇨리따 89〉 | "오직 왕관만이 나를 구할 것이다" (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27866609</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 09:08:43 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_62/KjQ5u_1641454182353OqeXE_PNG/1641453470088.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[〈더블 트러블〉 2화 예고편 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24334527</link>
-            <guid>https://tv.naver.com/v/24334527</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_269/N7ZG2_1640760125424X82UG_JPEG/1640760012211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
