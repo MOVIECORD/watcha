@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이드 리릭스 | 김이나 작사가와 다섯 뮤지션의 만남 | 메인 예고편 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28594273</link>
+            <guid>https://tv.naver.com/v/28594273</guid>
+            <pubDate>Tue, 16 Aug 2022 08:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_171/wsFcq_1660636385126PMdVC_JPEG/1660635500691.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[메이드 포 러브 | 비밀없는 부부로 만들어 드립니다 | 메인 예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28530288</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 02:02:05 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_87/4g87C_1641977752730rjHOc_PNG/1641977625077.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연봉 협상 희망편 vs 절망편 (쿠키 있음) (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24511036</link>
-            <guid>https://tv.naver.com/v/24511036</guid>
-            <pubDate>Sun, 09 Jan 2022 09:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220109_214/A26va_16417112825317NT0G_PNG/1641711176725.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
