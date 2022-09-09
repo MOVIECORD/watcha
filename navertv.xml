@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 05:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 06:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이드 리릭스 | 3화 예고편 '선우정아의 이야기' | 왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/29055902</link>
+            <guid>https://tv.naver.com/v/29055902</guid>
+            <pubDate>Fri, 09 Sep 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_125/w3xL3_1662465854879jXYM3_JPEG/90b0ffdd-2ddb-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 2화 예고편 '황소윤의 이야기' | 왓챠 오리지널]]></title>
             <link>https://tv.naver.com/v/28988548</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 09:08:03 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_165/wPVoQ_1645002454917CMPhA_PNG/1645002452333.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한화이글스: 클럽하우스 | 런칭 예고편 | 왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/25053855</link>
-            <guid>https://tv.naver.com/v/25053855</guid>
-            <pubDate>Fri, 11 Feb 2022 01:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_165/pKGT2_1644486670942n4aaQ_PNG/1644486337972.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
