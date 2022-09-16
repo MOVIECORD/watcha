@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이드 리릭스 | 4화 예고편 ‘김종완의 이야기' | 왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/29246722</link>
+            <guid>https://tv.naver.com/v/29246722</guid>
+            <pubDate>Fri, 16 Sep 2022 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_171/tNCsy_1663314083462YdawW_JPEG/62bd3ddf-3592-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈굿 샘〉 | 아버지 VS 딸, 더 뛰어난 의사가 메스를 잡는다! | 왓챠 익스클루시브]]></title>
             <link>https://tv.naver.com/v/29208517</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Feb 2022 00:33:07 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_86/bPy3G_1645777416999QXigN_PNG/1645777401674.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조인 마이 테이블 | 이금희와 박상영의 낯선 나라 음식 탐방기 | 왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/25294267</link>
-            <guid>https://tv.naver.com/v/25294267</guid>
-            <pubDate>Wed, 23 Feb 2022 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_7/9YCbE_1645580690741MhVC0_PNG/1645580611631.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
