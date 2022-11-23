@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 21:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 22:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 23 Nov 2022 00:42:57 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_153/K8ymc_16690969697268TTFB_JPEG/f1ecec97-6a2a-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 메인 예고편 | 왓챠 오리지널 | 12월 1일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30946215</link>
+            <guid>https://tv.naver.com/v/30946215</guid>
+            <pubDate>Wed, 23 Nov 2022 22:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_226/4bpB3_1669009992473A1Rpt_JPEG/1669009733681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아메리칸 러스트 | 메인 예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_266/raiZv_1651569420079vGOaV_PNG/1651569257950.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[특이점이 온 '도깨비송' 댄스 예고편 (안무 : HOOK 뤠이전) (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26512066</link>
-            <guid>https://tv.naver.com/v/26512066</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_80/cy63n_1651204515873rRbOw_JPEG/1651204452928.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
