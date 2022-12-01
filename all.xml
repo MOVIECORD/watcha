@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입사원 | 메인 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31248459</link>
+            <guid>https://tv.naver.com/v/31248459</guid>
+            <pubDate>Thu, 01 Dec 2022 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_214/ujyDw_1669877370969NufKh_PNG/1669876884084.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 캐릭터 소개 영상 | 왓챠 오리지널 | 12월 1일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31148692</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_24/2onYy_1652783424041tdCRt_PNG/1652783422951.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ㄹ인업부터 살벌하게 웃긴데ㅋㅋㅋㅋㅋ 웃음 참아야 되는 예능 (헙)ㅣ노키득존ㅣ티저 예 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26738543</link>
-            <guid>https://tv.naver.com/v/26738543</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_293/KqZZ2_16523433044787Qx3Q_PNG/1652342456057.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
