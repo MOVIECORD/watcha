@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 23:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 00:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사막의 왕 | 뮤직 메이킹 | 왓챠 오리지널 | 12월 16일 공개!]]></title>
+            <link>https://tv.naver.com/v/31251358</link>
+            <guid>https://tv.naver.com/v/31251358</guid>
+            <pubDate>Fri, 02 Dec 2022 00:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_198/bhs3V_1669881689820QWt2g_JPEG/1669881604454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 메인 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
             <link>https://tv.naver.com/v/31248459</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_300/9P03P_1653974480851xxC7d_PNG/1653974036530.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[★웃음 참기★참으면 오천만원 보장. 의심말고 클릭!ㅣ노키득존ㅣ30초 예고편]]></title>
-            <link>https://tv.naver.com/v/26831480</link>
-            <guid>https://tv.naver.com/v/26831480</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_24/2onYy_1652783424041tdCRt_PNG/1652783422951.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
