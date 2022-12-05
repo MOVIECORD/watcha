@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 22:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 23:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 1,2화 비하인드  | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31342930</link>
+            <guid>https://tv.naver.com/v/31342930</guid>
+            <pubDate>Mon, 05 Dec 2022 23:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_250/O3tje_1670218592491gTrji_JPEG/1670217993864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사막의 왕 | 뮤직 메이킹 | 왓챠 오리지널 | 12월 16일 공개! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31251358</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_57/8JkZ3_1654143657978IkPrs_PNG/1654143654699.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최종병기 앨리스｜티저 예고편｜왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27078441</link>
-            <guid>https://tv.naver.com/v/27078441</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_300/9P03P_1653974480851xxC7d_PNG/1653974036530.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
