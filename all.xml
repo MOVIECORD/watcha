@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 22:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 23:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 07 Dec 2022 08:11:58 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_4/MDtyv_16703981720348RBJY_PNG/1670398000313.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 진호은, 정민결의 랜선 투어 영상 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31407859</link>
+            <guid>https://tv.naver.com/v/31407859</guid>
+            <pubDate>Wed, 07 Dec 2022 23:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_156/mLe7H_1670388145368gzbnU_JPEG/1670388142018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막의 왕 | 메인 예고편 | 왓챠 오리지널 | 12월 16일 공개! (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_173/8hdAX_1657004917347QV3gq_JPEG/1657004846247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최종병기 앨리스 | 현장에 가득했던 핑크빛 케미 💗  핏빛 열정 🔥 | 제작기 영상 공개 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27474820</link>
-            <guid>https://tv.naver.com/v/27474820</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_272/W3RaY_1655808630664n8Yg0_JPEG/1655808626921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
