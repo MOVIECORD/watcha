@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 00:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 07 Dec 2022 08:11:58 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_4/MDtyv_16703981720348RBJY_PNG/1670398000313.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사막의 왕 | 원픽 초이스 캐스팅! | 왓챠 오리지널 | 12월 16일 공개! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31414291</link>
+            <guid>https://tv.naver.com/v/31414291</guid>
+            <pubDate>Thu, 08 Dec 2022 00:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_160/zcuis_1670396787885ytpmW_JPEG/1670396596093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 진호은, 정민결의 랜선 투어 영상 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_251/IGUJa_1657516076219EqBAo_PNG/1657515995737.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[⟨슈퍼리그: 축구의 종말⟩ | "탐욕이 만든 리그,지상 최악의 쇼가 되다!" | 왓챠 익스클루 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27764803</link>
-            <guid>https://tv.naver.com/v/27764803</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_173/8hdAX_1657004917347QV3gq_JPEG/1657004846247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
