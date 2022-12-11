@@ -4,7 +4,7 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 22:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 23:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 11 Dec 2022 02:21:15 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_98/f0Ku5_16705826990375M4Y3_PNG/1670582644261.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 한석규의 킬링 보이스 레시피 | 왓챠 오리지널 | 지금, 왓챠!]]></title>
+            <link>https://tv.naver.com/v/31447732</link>
+            <guid>https://tv.naver.com/v/31447732</guid>
+            <pubDate>Sun, 11 Dec 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_69/uTUg2_1670487739147xSW2l_JPEG/1670487417249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 캐릭터 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_58/amVLT_1660281242254vtXUx_PNG/1660281067827.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스트 레이디 | 과감했고, 솔직했고, 용감했다 | 왓챠 익스클루시브]]></title>
-            <link>https://tv.naver.com/v/28320658</link>
-            <guid>https://tv.naver.com/v/28320658</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_139/lzlcK_1659425554849Vl6GH_JPEG/1659424553169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
