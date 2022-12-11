@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 00:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 02:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입사원 | 티저 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31484483</link>
+            <guid>https://tv.naver.com/v/31484483</guid>
+            <pubDate>Sun, 11 Dec 2022 02:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_98/f0Ku5_16705826990375M4Y3_PNG/1670582644261.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 캐릭터 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31415294</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_139/lzlcK_1659425554849Vl6GH_JPEG/1659424553169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈세뇨리따 89〉 | "오직 왕관만이 나를 구할 것이다" (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27866609</link>
-            <guid>https://tv.naver.com/v/27866609</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_251/IGUJa_1657516076219EqBAo_PNG/1657515995737.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
