@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 23:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 00:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 11 Dec 2022 02:21:15 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_98/f0Ku5_16705826990375M4Y3_PNG/1670582644261.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사막의 왕 | 선공개 영상 | 동그라미만 그려도 월급 주는 회사가 있다? | 12월 16일 공개! | 왓 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31472536</link>
+            <guid>https://tv.naver.com/v/31472536</guid>
+            <pubDate>Mon, 12 Dec 2022 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_230/ig57P_1670561889932PfFIK_JPEG/1670561789148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 한석규의 킬링 보이스 레시피 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_171/wsFcq_1660636385126PMdVC_JPEG/1660635500691.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 포 러브 | 비밀없는 부부로 만들어 드립니다 | 메인 예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28530288</link>
-            <guid>https://tv.naver.com/v/28530288</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_58/amVLT_1660281242254vtXUx_PNG/1660281067827.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
