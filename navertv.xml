@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 22:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 23:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 3,4화 비하인드 | 왓챠 오리지널 | 지금, 왓챠!]]></title>
+            <link>https://tv.naver.com/v/31540953</link>
+            <guid>https://tv.naver.com/v/31540953</guid>
+            <pubDate>Mon, 12 Dec 2022 23:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_126/C42dW_1670831577061zm5zW_JPEG/1670831411891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 티저 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
             <link>https://tv.naver.com/v/31484483</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_21/255HY_1660885970104U9CIq_JPEG/7c84201b-1f7d-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 리릭스 | 김이나 작사가와 다섯 뮤지션의 만남 | 메인 예고편 | 왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/28594273</link>
-            <guid>https://tv.naver.com/v/28594273</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_171/wsFcq_1660636385126PMdVC_JPEG/1660635500691.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
