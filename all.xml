@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 23:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 00:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 11 Dec 2022 02:21:15 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_98/f0Ku5_16705826990375M4Y3_PNG/1670582644261.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사막의 왕 | 선공개 영상 | 외계인이 찾아와 소년에게 주고간 선물의 정체는?  | 12월 16일 공 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31472594</link>
+            <guid>https://tv.naver.com/v/31472594</guid>
+            <pubDate>Wed, 14 Dec 2022 00:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_243/SMou6_16705619935536PNLp_JPEG/1670561904442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막의 왕 | 선공개 영상 | 동그라미만 그려도 월급 주는 회사가 있다? | 12월 16일 공개! | 왓 (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_55/QgJBj_16613264871999SGhz_JPEG/1661326323784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 포 러브 | 고골테크의 새로운 기술이 공개됩니다" | 15초 예고편 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28665935</link>
-            <guid>https://tv.naver.com/v/28665935</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_21/255HY_1660885970104U9CIq_JPEG/7c84201b-1f7d-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
