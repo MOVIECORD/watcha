@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 22:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 23:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 5,6화 비하인드 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31659296</link>
+            <guid>https://tv.naver.com/v/31659296</guid>
+            <pubDate>Sun, 18 Dec 2022 23:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[6:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_295/q0SK9_1671166597817k6m84_JPEG/1671166444648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 3,4화 비하인드 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31540953</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_223/BLcIF_1662092287752cs7uG_JPEG/1662092149845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 포 러브 | 서로의 감정과 생각을 공유하는 기술? | 6초 예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28767464</link>
-            <guid>https://tv.naver.com/v/28767464</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_55/QgJBj_16613264871999SGhz_JPEG/1661326323784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
