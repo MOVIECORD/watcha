@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 21:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 22:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음 빈칸을 채우시오 | K-POP 아이돌 4인의 마지막 한 칸을 향한 여정 | 메인 예고편 | 왓챠]]></title>
+            <link>https://tv.naver.com/v/31891351</link>
+            <guid>https://tv.naver.com/v/31891351</guid>
+            <pubDate>Mon, 26 Dec 2022 22:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_126/VL3eZ_1672038324506gqPxj_JPEG/1672038322680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오퍼 : 대부 비하인드 스토리 | 메인 예고편 | 우아하게 탄생한 걸작은 없다! | 왓챠 익스클]]></title>
             <link>https://tv.naver.com/v/31754046</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_182/cyqxc_1662168494381VxkyO_JPEG/8c4b09bf-2b27-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 리릭스 | 곡을 새롭게 재해석한 리릭스 뮤지션 라인업 공개! | 왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/28972645</link>
-            <guid>https://tv.naver.com/v/28972645</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_56/2Ey63_16620962153293nxsK_JPEG/1662096139087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
