@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 00:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 02:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음 빈칸을 채우시오 | EP01. 에이티즈 우영 예고편 | 왓챠 오리지널]]></title>
+            <link>https://tv.naver.com/v/31960070</link>
+            <guid>https://tv.naver.com/v/31960070</guid>
+            <pubDate>Sat, 31 Dec 2022 02:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_265/mdTaM_1672225503019HV7lA_PNG/1672225496068.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 7,8화 비하인드 | 왓챠 오리지널 | 지금, 왓챠!]]></title>
             <link>https://tv.naver.com/v/31918922</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_125/w3xL3_1662465854879jXYM3_JPEG/90b0ffdd-2ddb-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 리릭스 | 2화 예고편 '황소윤의 이야기' | 왓챠 오리지널]]></title>
-            <link>https://tv.naver.com/v/28988548</link>
-            <guid>https://tv.naver.com/v/28988548</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_184/Z4ycr_1662168588872sbYTc_JPEG/c31c1650-2b27-11ed-8bc9-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
