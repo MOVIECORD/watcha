@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 22:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 23:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 9, 10화 비하인드 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31977239</link>
+            <guid>https://tv.naver.com/v/31977239</guid>
+            <pubDate>Sun, 01 Jan 2023 23:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[6:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_286/gEWol_1672290528224V1QdD_JPEG/1672290377640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다음 빈칸을 채우시오 | EP01. 에이티즈 우영 예고편 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31960070</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_225/r0Dl6_16632063379434g7JR_JPEG/1663206251814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 리릭스 | 3화 예고편 '선우정아의 이야기' | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29055902</link>
-            <guid>https://tv.naver.com/v/29055902</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_125/w3xL3_1662465854879jXYM3_JPEG/90b0ffdd-2ddb-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
