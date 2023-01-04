@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 22:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 23:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 좀 매울지도 몰라 | 한석규, 김서형, 진호은, 조유정의 촬영소감 | 왓챠 오리지널 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32114179</link>
+            <guid>https://tv.naver.com/v/32114179</guid>
+            <pubDate>Wed, 04 Jan 2023 23:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[7:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_223/QJ51D_1672815960366xK1Mx_JPEG/1672815794016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 좀 매울지도 몰라 | 9, 10화 비하인드 | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31977239</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220916_171/tNCsy_1663314083462YdawW_JPEG/62bd3ddf-3592-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈굿 샘〉 | 아버지 VS 딸, 더 뛰어난 의사가 메스를 잡는다! | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29208517</link>
-            <guid>https://tv.naver.com/v/29208517</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_225/r0Dl6_16632063379434g7JR_JPEG/1663206251814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
