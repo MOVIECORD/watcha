@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 00:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 02:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴의 성공 비결은 메로나?! (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33986555</link>
+            <guid>https://tv.naver.com/v/33986555</guid>
+            <pubDate>Wed, 15 Mar 2023 02:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_184/9vkUf_1678843783250bWIK6_JPEG/cb66eea4-c2d0-11ed-b2a1-48df37e2c01a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓰리 파인즈 | 메인 예고편 | 눈으로 뒤덮인 마을, 진실에 눈감은 사람들 | 1월 27일 왓챠 공 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32475105</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_87/pWy5l_1667802070968SbREr_JPEG/1667802017271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[80일간의 세계일주 | 메인 예고편 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29823582</link>
-            <guid>https://tv.naver.com/v/29823582</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_174/FgyJY_1665452957789oSv6g_JPEG/1665452834169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
