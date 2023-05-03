@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 03:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 04:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 춤추는 시간 | 서공예가 로망? 다시 한번 생각해봅시다. | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/35540356</link>
+            <guid>https://tv.naver.com/v/35540356</guid>
+            <pubDate>Wed, 03 May 2023 04:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_295/y5aGY_16830375017068zhI7_JPEG/f7b45c2e-e8f4-11ed-bb6e-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 도공 마을편 | PV | 귀칼 3기 커밍순 | 4월 11일, 곧 왓챠에서!]]></title>
             <link>https://tv.naver.com/v/34648420</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_169/7FsDA_1667807161626IqMAm_JPEG/1667807066914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 좀 매울지도 몰라 | 티저 예고편 | 왓챠 오리지널 | 12월 1일 왓챠 공개!]]></title>
-            <link>https://tv.naver.com/v/30553142</link>
-            <guid>https://tv.naver.com/v/30553142</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_87/pWy5l_1667802070968SbREr_JPEG/1667802017271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
