@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 08:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[템테이션 아일랜드 시즌 5 | 자기야 나 믿지? 하는 순간 통수 치는 마라맛 유혹의 섬 | 왓챠]]></title>
+            <link>https://tv.naver.com/v/37961154</link>
+            <guid>https://tv.naver.com/v/37961154</guid>
+            <pubDate>Wed, 12 Jul 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_260/fH1Yd_1689151139252JzoQN_PNG/1689151023349.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[슬립 : 차원이 다른 그녀의 원나잇 | "내 XX가 웜홀인 것 같아" | 메인 예고편]]></title>
             <link>https://tv.naver.com/v/37183566</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_153/K8ymc_16690969697268TTFB_JPEG/f1ecec97-6a2a-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 좀 매울지도 몰라 | 메인 예고편 | 왓챠 오리지널 | 12월 1일 왓챠 공개!]]></title>
-            <link>https://tv.naver.com/v/30946215</link>
-            <guid>https://tv.naver.com/v/30946215</guid>
-            <pubDate>Tue, 23 May 2023 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_226/4bpB3_1669009992473A1Rpt_JPEG/1669009733681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
