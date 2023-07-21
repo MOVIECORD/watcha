@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 06:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BETTING | 실패에 도전하는 돈과 사람들에 관한 이야기 | 메인예고편 | 왓챠 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38277417</link>
+            <guid>https://tv.naver.com/v/38277417</guid>
+            <pubDate>Fri, 21 Jul 2023 06:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_76/dxZxe_1689915794381tKqLQ_JPEG/1689915695934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포커 페이스 | 그녀의 눈에는 모든 거짓말이 보인다 | 메인예고편 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38165803</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 23:09:28 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_1/Z352o_1669624621282Yc5Pw_JPEG/1669624248472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 좀 매울지도 몰라 | Re:CIPE 제작기 | 왓챠 오리지널 | 12월 1일 왓챠 공개! (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31090588</link>
-            <guid>https://tv.naver.com/v/31090588</guid>
-            <pubDate>Sun, 27 Nov 2022 22:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_53/ycgTr_16693758166293di69_JPEG/1669375747465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
