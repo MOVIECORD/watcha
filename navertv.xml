@@ -4,9 +4,17 @@
         <title>왓챠 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 04:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포커 페이스 | 욕쟁이 할머니들의 충격적인 과거 | 왓챠 익스클루시브]]></title>
+            <link>https://tv.naver.com/v/38358114</link>
+            <guid>https://tv.naver.com/v/38358114</guid>
+            <pubDate>Thu, 27 Jul 2023 05:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_19/f1rRQ_1690184334125Hwwje_JPEG/1690184320963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BETTING | 실패에 도전하는 돈과 사람들에 관한 이야기 | 메인예고편 | 왓챠]]></title>
             <link>https://tv.naver.com/v/38277417</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_214/ujyDw_1669877370969NufKh_PNG/1669876884084.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 좀 매울지도 몰라 | 캐릭터 소개 영상 | 왓챠 오리지널 | 12월 1일 왓챠 공개!]]></title>
-            <link>https://tv.naver.com/v/31148692</link>
-            <guid>https://tv.naver.com/v/31148692</guid>
-            <pubDate>Tue, 23 May 2023 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_1/Z352o_1669624621282Yc5Pw_JPEG/1669624248472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
