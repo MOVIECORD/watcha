@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 04:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 05:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포커 페이스 | 죽은 남편의 흉상이 필요했던 진짜 이유 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38358328</link>
+            <guid>https://tv.naver.com/v/38358328</guid>
+            <pubDate>Sat, 29 Jul 2023 05:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_36/2MK5T_1690184653661LeqM7_JPEG/1690184579947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포커 페이스 | 연극공연 중인 무대에서 발생한 살인사건! | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38358247</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 23:09:05 GMT</pubDate>
             <content:encoded><![CDATA[5:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_250/O3tje_1670218592491gTrji_JPEG/1670217993864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막의 왕 | 뮤직 메이킹 | 왓챠 오리지널 | 12월 16일 공개! (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31251358</link>
-            <guid>https://tv.naver.com/v/31251358</guid>
-            <pubDate>Fri, 02 Dec 2022 00:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_198/bhs3V_1669881689820QWt2g_JPEG/1669881604454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
