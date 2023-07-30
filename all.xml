@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 04:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 05:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 28 Jul 2023 05:08:27 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230724_229/lg8aU_1690184538594ww7Qe_JPEG/1690184459116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포커 페이스 | 조셉 고든 래빗이 전자발찌를 찬 이유는? | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38358190</link>
+            <guid>https://tv.naver.com/v/38358190</guid>
+            <pubDate>Sun, 30 Jul 2023 05:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_102/Rpb9z_1690184448666MztSS_JPEG/1690184351368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포커 페이스 | 욕쟁이 할머니들의 충격적인 과거 | 왓챠 익스클루시브 (왓챠 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Dec 2022 22:08:45 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_213/GgSK9_1670291151468hl3TK_JPEG/1670291052347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 좀 매울지도 몰라 | 1,2화 비하인드  | 왓챠 오리지널 | 지금, 왓챠! (왓챠 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31342930</link>
-            <guid>https://tv.naver.com/v/31342930</guid>
-            <pubDate>Mon, 05 Dec 2022 23:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[5:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_250/O3tje_1670218592491gTrji_JPEG/1670217993864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
